@@ -52,3 +52,6 @@ Even though we have many framework to decompose the business, there are overlap 
 	- *A/B Testing*: to fairly evaluate the impact of an intervention
 	- *Regression Analysis*: to evaluate the impact of changes in different factors on the outcome
 	- *Time-series Analysis*: to forecast and investigate the trends and patterns of a metric over time.
+
+## Exercise
+[[Analytics-Framework-Apps]]
