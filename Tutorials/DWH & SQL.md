@@ -5,6 +5,14 @@
 		- Each columns: contains specified data type (numbers, characters, dates)
 - #sql is not only the mean to extract data, it's to define the structures that hold data, including tables, and the relationship between table 
 
+## DWH
+![[tutorial1.1.png]]
+- Sources of Data comes from the underneath system that generates data that records the states of operations and transaction of the business
+	- `ETL`: Extraction, transform, loading
+	- `EII`: Enterprise Information Integration
+	- `DWH`: Data Warehouse that enables the reportings, visualizations, OLAP (Analytical Processing) of the business
+- The data from DWH is to construct key metrics of the business -> [[Metrics Design]]
+
 ## Working with DWH
 - Understanding tables is fundamental to understanding the database 
 	- Table name?
@@ -36,9 +44,9 @@
 		- (On `Connection` Tab):
 			- Host name/address: `localhost`
 			- Password: `<YOUR-PASSWORD>`
-			![[tutorial1.1.png]]
+			![[tutorial1.2.png]]
 - Now, you will see all the available components under the default server of PostgreSQL
-	![[tutorial1.2.png]]
+	![[tutorial1.3.png]]
 
 ## Execute SQL in pgAdmin
 1. Run `PostgreSQL`
@@ -76,9 +84,9 @@ VALUES
 ```
 - Check the data: `SELECT * FROM teachers`
 	- The `id` is auto-added to the `teacher tables`
-	![[tutorial1.3.png]]
-	- Check the *Unique key*
 	![[tutorial1.4.png]]
+	- Check the *Unique key*
+	![[tutorial1.5.png]]
 	
 ## 4. Common SQL 
 - SQL Cheat Sheet: [LINK](https://www.sqltutorial.org/sql-cheat-sheet/)

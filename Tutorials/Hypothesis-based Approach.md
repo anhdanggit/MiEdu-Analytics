@@ -4,6 +4,16 @@ All the techniques in this course, together with SQL, Python and other tools is 
 
 We will learn about the process to discover the stories in data and communicate the findings. This will be so far the foundational process to connect all topics we learn.
 
+## Data-Driven vs. Data-Informed
+-   Data is a powerful thing. It can be additive, making us over-analyze everything
+-   Also wisdom and experience, rather than rigid analysis
+-   Data is a tool, not a shortcut that we don't have to do a hard work (pick-up phone and call customers)
+-   Data tells us what already happen, theories inspire us what have never happened before. Data ⇒ Local optimize
+
+> Humans do inspiration; machines do validations. Data optimize a know system, humans are good at finding a new one.
+
+-   Ultimately, quantitative data is great for testing hypotheses, but it’s lousy for generating new ones unless combined with human introspection.
+
 ## Start with a Question (Hypothesis)
 ![[tutorial3.1.png]]
 - Curiosity, intuition, or sometimes just dumb luck can often spark ideas for data analysis. 
