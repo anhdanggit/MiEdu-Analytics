@@ -4,9 +4,9 @@
 ## Syllabus
 - [x] 1-2.[[DWH & SQL]]
 - [x] 3.[[Hypothesis-based Approach]] 
-- [ ] 4.[[Metrics Design]] 
+- [x] 4.[[Metrics Design]] 
 - [ ] 5.[[Analytics Frameworks]] 
-- [ ] 6.[[Data Manipulation & Viz Python]]
+- [x] 6.[[Data Manipulation & Viz Python]]
 - [ ] 7-8.[[Segmentation Analysis]] 
 - [ ] 9.[[Cohort Analysis]] 
 - [ ] 10.[[A/B Testing]] 

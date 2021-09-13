@@ -54,3 +54,6 @@ We will learn about the process to discover the stories in data and communicate 
 - Expert opinions
 - Visualize numbers by charts
 - Cite source of data / sample for analysis (time window, sub-population)
+
+## Exercise
+[[Hypothesis-Car-Service]]
