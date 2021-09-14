@@ -1,4 +1,4 @@
-Using the data set of a Car Taxi Service, we will apply the hypothesis-based approach to analyze the case study and apply the data to build a product proposal.
+For [[Capstone Project - Car Service]], we will apply the hypothesis-based approach to analyze the case study and apply the data to build a product proposal.
 
 ## 1. Business Questions/Hypotheses
 -   What are taxis used for?
@@ -34,3 +34,9 @@ For the MVP (or even for production launch) it may not make operational sense to
 	9. If yes to Q8, how much would you be willing to pay per mile for such a service? (USD)
 	10. If no to Q8, what is the reason?
 - Import to `PostgreSQL`, write SQL to analyze and determine sentiment and user segments that would likely use a flying car service
+
+## 5. Gather Data & Re-scope
+- What further data you needs to validate your hypotheses?
+- Try to find relevant datasets on https://www.kaggle.com/ (keyword: `Uber`)
+- Eliminate the hypotheses that you cannot find the data to support
+- Add more hypotheses that are inspried from the data available

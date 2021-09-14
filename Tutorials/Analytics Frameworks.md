@@ -54,4 +54,4 @@ Even though we have many framework to decompose the business, there are overlap 
 	- *Time-series Analysis*: to forecast and investigate the trends and patterns of a metric over time.
 
 ## Exercise
-[[Analytics-Framework-Apps]]
+[[Analytics-Framework-Car-Service]]

@@ -4,8 +4,13 @@ On `PostgreSQL` and `pgAdmin`
 1.  Imagine you’re building a database to catalog all the animals at your local zoo. You want one table to track the kinds of animals in the collection and another table to track the specifics on each animal. Write `CREATE TABLE` statements for each table that include some of the columns you need. Why did you include the columns you chose?
 2.  Now create `INSERT` statements to load sample data into the tables. How can you view the data via the pgAdmin tool? Create an additional `INSERT` statement for one of your tables. Purposely omit one of the required commas separating the entries in the VALUES clause of the query. What is the error message? Would it help you find the error in the code?
 
-## 2. Import CSV and Analysis
-- Upload the dataset `./Data/tax_rides.csv` to Postgre
+## 2. Capstone Project
+### Import CSV and Analysis
+```ad-info
+To support your [[Capstone Project - Car Service]], we have the dataset `./Data/tax_rides.csv`, let's use the SQL to get yourself familiar with the data
+
+```
+- Upload the `./Data/tax_rides.csv` to `Postgre`
 - Get the high-level understanding of the granularity and scope of the dataset:
 	1. How many records are in the dataset
 	2. What does each record represent?
