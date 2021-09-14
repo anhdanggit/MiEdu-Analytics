@@ -90,7 +90,7 @@ VALUES
 	
 ## 4. Common SQL 
 - SQL Cheat Sheet: [LINK](https://www.sqltutorial.org/sql-cheat-sheet/)
-- Supplement: ![[03-sql.ipynb]]
+- Supplement: [02-Data-Collection/SQL](https://github.com/mieduai/fsds-courses/blob/master/02-Data-Collection/03-sql.ipynb)
 
 ## Import CSV 
 - A row-by-row `INSERT` is useful for making quick test tables or adding a few rows to an existing table

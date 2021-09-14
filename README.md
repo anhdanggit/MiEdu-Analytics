@@ -1,5 +1,9 @@
-> Duration: 8 weeks
-> Tags: #miedu #tutorial 
+
+```ad-info
+Duration: 8 weeks
+Tags: #miedu #tutorial 
+```
+
 
 ## Syllabus
 - [x] 1-2.[[DWH & SQL]]
@@ -16,9 +20,9 @@
 - [ ] 16.Application (II): Free Mobile App 
 
 ## Entry Exam & Timeline
-* [MiEdu Analytics Syllabus & Timetable](https://docs.google.com/spreadsheets/d/1kcgASloZ3oGrSiwDows94LmQ_C2DBoggCKCQ1IwY578/edit#gid=0)
+* [Analytics Syllabus & Timetable](https://docs.google.com/spreadsheets/d/1kcgASloZ3oGrSiwDows94LmQ_C2DBoggCKCQ1IwY578/edit#gid=0)
 
 ## Reference
 * `ris:AccountCircle`[[[Coursera] Agile Analytics]]
 * `ris:Book2`[[Lean Analytics]]
-* [[[Udacity] Product Data Manager]]
+* `ris:Bookmark2`[[[Udacity] Product Data Manager]]
