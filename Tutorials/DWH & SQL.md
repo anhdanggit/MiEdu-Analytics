@@ -19,7 +19,7 @@
 	- Column structure: text, numbers, id?
 	- Number of rows?
 - Why we need to split separate tables?
-	- Seperate tables to reduce redundant data -> Don't waste database space #TODO: example
+	- Seperate tables to reduce redundant data -> Don't waste database space
 	- Expand the data by mapping across tables (through keys)
 	- Tables are the core building block of every database
 - **Granularity**: what does each row represent?
