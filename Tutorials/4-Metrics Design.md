@@ -1,5 +1,5 @@
 ## Metrics Design (OKR-KPIs)
-> The data from [[DWH & SQL]] is to construct key metrics that the business reports and monitors. From [[Hypothesis-based Approach]], we quantify factors in hypothesis by metrics. The introduction of OKRs and KPIs is to illustrate why the metrics is the fundamental of the connection between business and data
+> The data from [[1-2-DWH & SQL]] is to construct key metrics that the business reports and monitors. From [[3-Hypothesis-based Approach]], we quantify factors in hypothesis by metrics. The introduction of OKRs and KPIs is to illustrate why the metrics is the fundamental of the connection between business and data
 
 ### OKRs
 -   **Objectives and Key Results (OKR) Framework**: goal setting methodology to define & track the progress towards objectives
@@ -63,7 +63,7 @@
 ![[tutorial4.4.png]]
 
 ## Exercise
-[[Metrics-Car-Service]]
+[[4-Metrics-Car-Service]]
 
 ## Links
 - [x] [[1 - Data Modelling & Metrics]] 

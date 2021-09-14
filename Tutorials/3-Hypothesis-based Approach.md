@@ -30,7 +30,7 @@ We will learn about the process to discover the stories in data and communicate 
 - Git: version control 
 
 ## Gather Data 
-- Browse the Database (follow the steps in [[DWH & SQL]]): Understand tables and structures
+- Browse the Database (follow the steps in [[1-2-DWH & SQL]]): Understand tables and structures
 - Source of Data: understand where the data comes from, and the characteristics of the data sources 
 
 ## Query Data
@@ -66,4 +66,4 @@ We will learn about the process to discover the stories in data and communicate 
 - Cite source of data / sample for analysis (time window, sub-population)
 
 ## Exercise
-[[Hypothesis-Car-Service]]
+[[3-Hypothesis-Car-Service]]

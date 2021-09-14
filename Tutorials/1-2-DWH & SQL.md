@@ -11,7 +11,7 @@
 	- `ETL`: Extraction, transform, loading
 	- `EII`: Enterprise Information Integration
 	- `DWH`: Data Warehouse that enables the reportings, visualizations, OLAP (Analytical Processing) of the business
-- The data from DWH is to construct key metrics of the business -> [[Metrics Design]]
+- The data from DWH is to construct key metrics of the business -> [[4-Metrics Design]]
 
 ## Working with DWH
 - Understanding tables is fundamental to understanding the database 
@@ -129,7 +129,7 @@ WITH (FORMAT CSV, HEADER);
 - Supplement: [Statistics 101](https://www.youtube.com/watch?v=8YLvF5ztH90)
 
 ## Exercies
-[[SQL in pgAdmin]]
+[[1-SQL in pgAdmin]]
 
 ## References
 - [[Debarros (2018). Practical SQL]]

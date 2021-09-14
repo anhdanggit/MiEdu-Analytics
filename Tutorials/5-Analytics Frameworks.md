@@ -1,4 +1,4 @@
-> Where the [[Metrics Design]] come from? This part will provide some common frameworks to design set of KPIs for (almost) any business model. With metrics as the ingredients, analytics techniques come to place to explain the relationship between the metrics, to uncover the hidden patterns and trends.
+> Where the [[4-Metrics Design]] come from? This part will provide some common frameworks to design set of KPIs for (almost) any business model. With metrics as the ingredients, analytics techniques come to place to explain the relationship between the metrics, to uncover the hidden patterns and trends.
 
 ## Lean Analytics Cycle
 ![[tutorial5.2.png]]
@@ -54,4 +54,4 @@ Even though we have many framework to decompose the business, there are overlap 
 	- *Time-series Analysis*: to forecast and investigate the trends and patterns of a metric over time.
 
 ## Exercise
-[[Analytics-Framework-Car-Service]]
+[[5-Analytics-Framework-Car-Service]]

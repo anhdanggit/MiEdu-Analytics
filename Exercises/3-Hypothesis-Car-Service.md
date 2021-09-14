@@ -10,7 +10,7 @@ Examples:
 - Target users will be those who take a relatively longer time getting to a destination that is relatively close by, due to heavy traffic conditions and/or limitations to physical road infrastructure
 
 ## 2. Gather the Data
-- Use dataset `./Data/tax_rides.csv` from Exercise [[SQL in pgAdmin]]
+- Use dataset `./Data/tax_rides.csv` from Exercise [[1-SQL in pgAdmin]]
 - Which fields (information) on this dataset could help you to answer the question in [[#1 Business Questions Hypotheses]]?
 - Enrich dataset:
 	- You notice that ride price is not included, but figure it could be derived. Based on information about New York taxi prices gleaned from the internet, create a calculated field called price using fixed variables, duration, distance, and passenger count

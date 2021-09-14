@@ -6,8 +6,9 @@ On `PostgreSQL` and `pgAdmin`
 
 ## 2. Capstone Project
 ### Import CSV and Analysis
+To support your [[Capstone Project - Car Service]]
 ```ad-info
-To support your [[Capstone Project - Car Service]], we have the dataset `./Data/tax_rides.csv`, let's use the SQL to get yourself familiar with the data
+We have the dataset `./Data/tax_rides.csv`, let's use the SQL to get yourself familiar with the data
 
 ```
 - Upload the `./Data/tax_rides.csv` to `Postgre`

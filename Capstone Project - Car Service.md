@@ -5,9 +5,9 @@ By the Analytics frameworks and skills, you will work through step-by-step to le
 You will own this project. After each lecture, you will apply the new skills to make the progress in this project. And by the end, you will have a complete analytic works, with working source code to build up your analytics portfolio. 
 
 ## Structure of the Project
-1. Develop Business Questions and Hypotheses for the Analytic Project: [[Hypothesis-Car-Service]]
-3. Design the relevant key metrics (KPIs) for the business model [[Metrics-Car-Service]]
-4. Form the Analytics Frameworks [[Analytics-Framework-Car-Service]]
+1. Develop Business Questions and Hypotheses for the Analytic Project: [[3-Hypothesis-Car-Service]]
+3. Design the relevant key metrics (KPIs) for the business model [[4-Metrics-Car-Service]]
+4. Form the Analytics Frameworks [[5-Analytics-Framework-Car-Service]]
 5. Data Exploration & Visualization
 6. Apply Analytics Techniques to uncover the Insights
 7. Provide the actionable recommendations for business

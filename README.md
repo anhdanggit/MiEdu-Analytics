@@ -6,11 +6,11 @@ Tags: #miedu #tutorial
 
 
 ## Syllabus
-- [x] 1-2.[[DWH & SQL]]
-- [x] 3.[[Hypothesis-based Approach]] 
-- [x] 4.[[Metrics Design]] 
-- [x] 5.[[Analytics Frameworks]] 
-- [x] 6.[[Data Manipulation & Viz Python]]
+- [x] 1-2.[[1-2-DWH & SQL]]
+- [x] 3.[[3-Hypothesis-based Approach]] 
+- [x] 4.[[4-Metrics Design]] 
+- [x] 5.[[5-Analytics Frameworks]] 
+- [x] 6.[[6-Data Manipulation & Viz Python]]
 - [ ] 7-8.[[Segmentation Analysis]] 
 - [ ] 9.[[Cohort Analysis]] 
 - [ ] 10.[[A/B Testing]] 
