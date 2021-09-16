@@ -36,6 +36,7 @@
 ![[tutorial5.4.png]]
 - Lean Canvas is another framework that decompose the state of business into boxes: Problem, Solution, Unique Value Proposition, Customer Segments, Channels, Unfair Advantage, Revenue Streams, Cost Structure
 - For each box, we have relevant metrics
+![[tutorial5.4b.png]]
 
 ### Generalize
 Even though we have many framework to decompose the business, there are overlap in stages of Analytics, and metrics to measure the performance of business.

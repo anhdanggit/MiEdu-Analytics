@@ -33,7 +33,7 @@ For the MVP (or even for production launch) it may not make operational sense to
 	8. Would you use a flying taxi service, if such a concept existed? (Y/N)
 	9. If yes to Q8, how much would you be willing to pay per mile for such a service? (USD)
 	10. If no to Q8, what is the reason?
-- Import to `PostgreSQL`, write SQL to analyze and determine sentiment and user segments that would likely use a flying car service
+- Import to `PostgreSQL` (or `Colab Notebook` and use `DuckDb` [[3-Lab-Hypothesis]]), write SQL to analyze and determine sentiment and user segments that would likely use a flying car service
 
 ## 5. Gather Data & Re-scope
 - What further data you needs to validate your hypotheses?

@@ -7,10 +7,10 @@ On `PostgreSQL` and `pgAdmin`
 ## 2. Capstone Project
 ### Import CSV and Analysis
 To support your [[Capstone Project - Car Service]]
-```ad-info
-We have the dataset `./Data/tax_rides.csv`, let's use the SQL to get yourself familiar with the data
 
-```
+> We have the dataset `./Data/tax_rides.csv`, let's use the SQL to get yourself familiar with the data
+
+
 - Upload the `./Data/tax_rides.csv` to `Postgre`
 - Get the high-level understanding of the granularity and scope of the dataset:
 	1. How many records are in the dataset
@@ -23,4 +23,3 @@ We have the dataset `./Data/tax_rides.csv`, let's use the SQL to get yourself fa
 	2. distance
 	3. passenger counts
 	4. duration-to-distance ratio
-	5. price
