@@ -11,7 +11,7 @@
 	- `ETL`: Extraction, transform, loading
 	- `EII`: Enterprise Information Integration
 	- `DWH`: Data Warehouse that enables the reportings, visualizations, OLAP (Analytical Processing) of the business
-- The data from DWH is to construct key metrics of the business -> [[4-Metrics Design]]
+- The data from DWH is to construct key metrics of the business -> [[4-Metrics Design]].
 
 ## Working with DWH
 - Understanding tables is fundamental to understanding the database 
