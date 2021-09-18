@@ -8,6 +8,10 @@ For [[Capstone Project - Car Service]], we will apply the hypothesis-based appro
 
 Examples:
 - Target users will be those who take a relatively longer time getting to a destination that is relatively close by, due to heavy traffic conditions and/or limitations to physical road infrastructure
+- What times throughout the day experience relatively higher volumes of ride pickups?
+- What days throughout the week experience relatively higher volumes of ride pickups?
+
+> Hints: "Google" how to extract time of dat, and weekday from the timestamp in SQL (and/or Exploratory)
 
 ## 2. Gather the Data
 - Use dataset `./Data/tax_rides.csv` from Exercise [[1-SQL in pgAdmin]]
@@ -17,9 +21,9 @@ Examples:
 	- You hypothesize your target users will be those who take a relatively longer time getting to a destination that is relatively close by, due to heavy traffic conditions and/or limitations to physical road infrastructure. To be able to analyze where this is happening, you will need to create a calculated field called `distance-to-duration ratio`
 
 ## 3. Trends of the Data
-For the MVP (or even for production launch) it may not make operational sense to have the service running 24/7.
--   What times throughout the day experience relatively higher volumes of ride pickups?
--   What days throughout the week experience relatively higher volumes of ride pickups?
+- Import data to `PostgreSQL` (or `Colab Notebook` and use `DuckDb` [[2-Lab-SQL-BigQuery-Colab]]), write SQL to validate the hypotheses in [[#1 Business Questions Hypotheses]]
+
+> Hints: "Google" how to extract time of dat, and weekday from the timestamp in SQL (and/or Exploratory)
 
 ## 4. Analyze User Research Survey Data
 - Use dataset `./Data/user-research.csv`, with 10 columns for the following questions:
@@ -33,7 +37,7 @@ For the MVP (or even for production launch) it may not make operational sense to
 	8. Would you use a flying taxi service, if such a concept existed? (Y/N)
 	9. If yes to Q8, how much would you be willing to pay per mile for such a service? (USD)
 	10. If no to Q8, what is the reason?
-- Import to `PostgreSQL` (or `Colab Notebook` and use `DuckDb` [[3-Lab-Hypothesis]]), write SQL to analyze and determine sentiment and user segments that would likely use a flying car service
+- Use `Exploratory` to analyze and determine sentiment and user segments that would likely use a flying car service
 
 ## 5. Gather Data & Re-scope
 - What further data you needs to validate your hypotheses?

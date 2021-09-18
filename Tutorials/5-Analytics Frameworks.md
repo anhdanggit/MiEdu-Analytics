@@ -56,3 +56,6 @@ Even though we have many framework to decompose the business, there are overlap 
 
 ## Exercise
 [[5-Analytics-Framework-Car-Service]]
+
+## References
+[[Croll & Yoskovitz (2013). Lean Analytics]]

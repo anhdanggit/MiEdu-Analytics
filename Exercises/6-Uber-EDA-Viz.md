@@ -7,7 +7,6 @@
 > - Total Miles: 12,204
 > - Dataset: The dataset contains `Start Date`, `End Date`, `Start Location`, `End Location`, `Miles Driven and Purpose of drive` (Business, Personal, Meals, Errands, Meetings, Customer Support etc.)
 
-
 1. Use the dataset `My Uber Drives` available on Kaggle: [HERE](https://www.kaggle.com/zusmani/uberdrives)
 2. Conduct steps of EDA
 3. Come up with a list of hypothese 

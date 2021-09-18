@@ -1,9 +1,3 @@
----
-noteId: "9880446016d911ecb4855f4b7fc4fd1e"
-tags: []
-
----
-
 
 ## 1. SQL on Google BigQuery
 ### Login Google Cloud Platform

@@ -1,9 +1,5 @@
-
-```ad-info
-Duration: 8 weeks
-Tags: #miedu #tutorial 
-```
-
+> Duration: 8 weeks
+> Tags: #miedu #tutorial 
 
 ## Syllabus
 - [x] 1-2.[[1-2-DWH & SQL]]
@@ -29,5 +25,5 @@ Tags: #miedu #tutorial
 
 ## Reference
 - `ris:AccountCircle`[[[Coursera] Agile Analytics]]
-- `ris:Book2`[[Lean Analytics]]
+- `ris:Book2`[[Croll & Yoskovitz (2013). Lean Analytics]]
 - `ris:Bookmark2`[[[Udacity] Product Data Manager]]
