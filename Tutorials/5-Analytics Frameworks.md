@@ -8,14 +8,14 @@
 	- No historical data: Ideation, Qualitative research
 	- Historical data:
 		- Define "Good" Customers
-		- What these "Good" customer have in common? -> [[Segmentation Analysis]]
-		- What of their attributes correlate with the KPI? -> [[Regression Analysis]]
+		- What these "Good" customer have in common? -> [[7-8-Segmentation-Analysis]]
+		- What of their attributes correlate with the KPI? -> [[11-12-Regression-Analysis]]
 4. Take Action:
 	- Experiments
 	- Make changes in the business
 5. Measure Effect of Actions
-	- [[A/B Testing]]
-	- [[Cohort Analysis]]
+	- [[10-AB-Testing]]
+	- [[9-Cohort-Analysis]]
 6. If the effect is improved?
 	- Yes? Move to new KPI to improve
 	- No? -> Revisit (2)

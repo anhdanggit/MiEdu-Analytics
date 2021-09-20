@@ -2,18 +2,18 @@
 > Tags: #miedu #tutorial 
 
 ## Syllabus
-- [x] 1-2.[[1-2-DWH & SQL]]
-- [x] 3.[[3-Hypothesis-based Approach]] 
-- [x] 4.[[4-Metrics Design]] 
-- [x] 5.[[5-Analytics Frameworks]] 
-- [x] 6.[[6-Data Manipulation & Viz Python]]
-- [ ] 7-8.[[Segmentation Analysis]] 
-- [ ] 9.[[Cohort Analysis]] 
-- [ ] 10.[[A/B Testing]] 
-- [ ] 11-12.[[Regression Analysis]] 
-- [ ] 13-14.[[Time-series Analysis]] 
-- [ ] 15.Application (I): E-commerce 
-- [ ] 16.Application (II): Free Mobile App 
+- [x] [[1-2-DWH & SQL]]
+- [x] [[3-Hypothesis-based Approach]] 
+- [x] [[4-Metrics Design]] 
+- [x] [[5-Analytics Frameworks]] 
+- [x] [[6-Data Manipulation & Viz Python]]
+- [ ] [[7-8-Segmentation]] 
+- [ ] [[9-Cohort-Analysis]] 
+- [ ] [[10-AB-Testing]] 
+- [ ] [[11-12-Regression-Analysis]] 
+- [ ] [[13-14-Time-series-Analysis]] 
+- [ ] [[15-Application-Ecommerce]]
+- [ ] [[16-Application-FreeMobileApp]]
 
 ## Entry Exam & Timeline
 - [Analytics Syllabus & Timetable](https://docs.google.com/spreadsheets/d/1kcgASloZ3oGrSiwDows94LmQ_C2DBoggCKCQ1IwY578/edit#gid=0)
