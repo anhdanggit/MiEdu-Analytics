@@ -191,6 +191,6 @@ Data columns (total 3 columns):
 4. Detect and treat outliers by IQR
 
 ## References
-1. [EDA from Scratch in Python](https://medium.com/swlh/exploratory-data-analysis-eda-from-scratch-in-python-8c12c2673aa7
+1. [EDA from Scratch in Python](https://medium.com/swlh/exploratory-data-analysis-eda-from-scratch-in-python-8c12c2673aa7)
 2. [Useful Seaborn Plots for EDA](https://simply-python.com/2019/08/21/useful-seaborn-plots-for-data-exploration/)
 3. [How to detect and remove outliers with Python](https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/)
