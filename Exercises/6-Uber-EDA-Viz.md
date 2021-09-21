@@ -9,5 +9,5 @@
 
 1. Use the dataset `My Uber Drives` available on Kaggle: [HERE](https://www.kaggle.com/zusmani/uberdrives)
 2. Conduct steps of EDA
-3. Come up with a list of hypothese 
+3. Come up with a list of hypotheses
 4. Visualize the data to validate those hypothese
