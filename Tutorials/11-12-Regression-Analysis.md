@@ -1,1 +1,2 @@
-
+- Regression Analysis + Linear Regression
+- Logistic Regression
