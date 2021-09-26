@@ -65,5 +65,8 @@ We will learn about the process to discover the stories in data and communicate 
 - Visualize numbers by charts
 - Cite source of data / sample for analysis (time window, sub-population)
 
+## Lab
+[[3-Lab-Hypothesis]]
+
 ## Exercise
 [[3-Hypothesis-Car-Service]]

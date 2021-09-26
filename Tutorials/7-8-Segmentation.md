@@ -108,5 +108,5 @@ Notice that you do not need to stick with the classic RFM, there are multiple va
 - [[8-Lab-Kmeans]]
 
 ## References
-- [RFM (market research)](https://en.wikipedia.org/wiki/RFM_(market_research)
+- [RFM (market research)](https://en.wikipedia.org/wiki/RFM)
 - [K-means Codecademy](https://www.codecademy.com/learn/intprep-ds-machine-learning-algorithms-ds-interviews/modules/intprep-ds-unsupervised-learning-interview-questions/cheatsheet)

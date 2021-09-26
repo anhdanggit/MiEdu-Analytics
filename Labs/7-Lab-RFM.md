@@ -1,5 +1,5 @@
 > Colab Notebook of this lab: [EDA-Viz.ipynb](https://colab.research.google.com/drive/1OL1SZXPb9k_vd9ZBiBEs25PJrUNhm3c5?usp=sharing)
-> Dataset: [UCI Online Retail Dataset](http://archive.ics.uci.edu/ml/datasets/online+retail)
+> Dataset: [UCI Online Retail Dataset](https://www.kaggle.com/jihyeseo/online-retail-data-set-from-uci-ml-repo)
 
 - Conducts some EDA to understand the data
 

@@ -1,0 +1,17 @@
+Recommend some AB Tests (experiments) we can run to improve the product of Uber:
+- 03 Questions could be answered by AB testing? What business actions and value from answering those questions
+- Design the Experiment:
+	- Variants: How they different from each others?
+	- Sample: 
+		- In which segments?
+		- Time Window to run the test
+		- How the data table (resulting from the test) will look like?
+	- Decision Metrics:
+		- What metrics we wants to compare in the test?
+		- Explain step-by-step how you will run the statistical testing:
+			- Process the data (from the data table you suggest in the `Sample` part), and run the statistical testing?
+			- Type of statistical tests
+			- How to interpret the p-value to reach the decision
+- Plan to analyze the AB results?
+	- What factors might impact the AB results?
+	- What analysis you will run to deep-dive in the AB results (based on the data table you suggest in the `Sample` part)

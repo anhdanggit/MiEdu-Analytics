@@ -15,7 +15,7 @@
 	- Make changes in the business
 5. Measure Effect of Actions
 	- [[10-AB-Testing]]
-	- [[9-Cohort-Analysis]]
+	- [[00-Work/MiEdu-Analytics/Tutorials/9-Cohort-Analysis]]
 6. If the effect is improved?
 	- Yes? Move to new KPI to improve
 	- No? -> Revisit (2)

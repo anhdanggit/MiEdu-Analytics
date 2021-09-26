@@ -256,5 +256,5 @@ GROUP BY 1, 2
 ## Recap
 1. We learn some key metrics in marketings, and explain the concept of funnel and conversion rate
 2. Practice with the Bank Marketing dataset on BigQuery and Data Studio
-3. Breakd-down to dimensions to compare the KPIs among different groups
+3. Break-down to dimensions to compare the KPIs among different groups
 4. Compare the demographies of conversion and non-conversions (Age x Marital) by pivot tables

@@ -8,7 +8,7 @@
 - [x] [[5-Analytics Frameworks]] 
 - [x] [[6-Data Manipulation & Viz Python]]
 - [ ] [[7-8-Segmentation]] 
-- [ ] [[9-Cohort-Analysis]] 
+- [ ] [[00-Work/MiEdu-Analytics/Tutorials/9-Cohort-Analysis]] 
 - [ ] [[10-AB-Testing]] 
 - [ ] [[11-12-Regression-Analysis]] 
 - [ ] [[13-14-Time-series-Analysis]] 

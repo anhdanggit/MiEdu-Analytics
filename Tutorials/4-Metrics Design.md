@@ -62,5 +62,8 @@
 ![[tutorial4.3.png]]
 ![[tutorial4.4.png]]
 
+## Lab
+[[4-Lab-Metrics]]
+
 ## Exercise
 [[4-Metrics-Car-Service]]

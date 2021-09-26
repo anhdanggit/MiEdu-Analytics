@@ -105,7 +105,7 @@ Now, let's fome some interesting hypotheses for the questions: ==Who will likely
 - In `Exploratory` (or any other tools: Excel, Pandas Python, etc.), we actually do the same techniques. 
 - Let's use data to validate the hypotheses in [[#Form Hypotheses]] 
 
-### H1 about ` training_hours`
+### H1 about `training_hours`
 - Click on `Chart`
 - Type: `Pivot Table`
 	- Row: `training_hours` (Equivalent to SQL `GROUP BY`-> Exploratory will auto-split the value into bins) 
@@ -143,7 +143,7 @@ Now, let's fome some interesting hypotheses for the questions: ==Who will likely
 > - Consitent with what we expect, candidate with less than or equal 1 year are most likely to change job
 > - Meanwhile, people with 16-20 year are much less likely to change
 
-### H4 about ` gender`
+### H4 about `gender`
 - Filter out `gender = 'None'` and `gender = 'Others'`
 ![[lab3.12.png]]
 > ==Insights==
