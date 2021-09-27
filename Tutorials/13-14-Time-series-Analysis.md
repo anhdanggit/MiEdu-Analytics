@@ -94,7 +94,6 @@ $$\hat{Y}_{t+1} = \alpha Y_t + \alpha (1-\alpha) Y_{t-1} + ... + \alpha (1-\alph
 ![[tutorial13-14.8.png]]
 
 ### Time-series Components:
-- `Level`: The average value of the series
 - `Trend`: the increasing or decreasing value over time
 - `Seasonality`: the repearting short-term cycle in the series
 - `Noise`: random variation in the series
@@ -124,7 +123,7 @@ $$\hat{Y}_{t+1} = \alpha Y_t + \alpha (1-\alpha) Y_{t-1} + ... + \alpha (1-\alph
 - But, this method provide a simple framework to analyze time-series data
 
 ## Labs
-- [[13-TS-Spreadsheet]]
+- [[13-Lab-TS-Spreadsheet]]
 - [[14-TS-Decompose]]
 
 ## Exercise
