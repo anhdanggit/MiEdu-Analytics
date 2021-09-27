@@ -66,7 +66,7 @@ $$\hat{Y}_{t+1} = \hat{Y}_t + \alpha({Y}_t - \hat{Y}_t)$$
 
 - The above formula is mathematically equivalent to (Hint: Replace $\hat{Y}_{t} = \hat{Y}_{t-1} + \alpha({Y}_{t-1} - \hat{Y}_{t-1})$, recursively):
 
-$$\hat{Y}_{t+1} = \alpha Y_t + \alpha (1-\alpha) Y_{t-1} + ... + \alpha (1-\alpha)^n Y_{t-2} $$
+$$\hat{Y}_{t+1} = \alpha Y_t + \alpha (1-\alpha) Y_{t-1} + ... + \alpha (1-\alpha)^n Y_{t-n} $$
 
 - With $0 \leq \alpha \leq 1$
 	- $Y_t$ have the heaviest weight ($\alpha$)
@@ -124,7 +124,7 @@ $$\hat{Y}_{t+1} = \alpha Y_t + \alpha (1-\alpha) Y_{t-1} + ... + \alpha (1-\alph
 - But, this method provide a simple framework to analyze time-series data
 
 ## Labs
-- [[13-TS-MA-ES]]
+- [[13-TS-Spreadsheet]]
 - [[14-TS-Decompose]]
 
 ## Exercise
