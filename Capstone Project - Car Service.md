@@ -22,4 +22,4 @@ You will own this project. After each lecture, you will apply the new skills to 
 | Analytics          | 1. Apply the chosen techniques from the course to identify the business opportunities <br> 2. The output of analysis is actionable (i.e. meaningful recommendations for business)                                   |
 
 ## Tools and skills 
-Through out the project, you will earn the necessary skills to form up the final project.
+Through out the project, you will earn the necessary skills to form up the final project. 
