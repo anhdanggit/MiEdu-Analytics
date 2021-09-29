@@ -128,7 +128,7 @@ Group by:
 	- Sum the value of orders
 
 The results as follows:
-![[Pasted image 20210929165028.png]]
+![[lab9.8.png]]
 
 - For each `cohort_group`: groups of users have the start-date in same month `%Y-%m`
 	- Track the aggregated metrics, for each period in their life cycle (`invoice_period`)	
@@ -147,15 +147,15 @@ Remember the charts in [[#Cohort Analysis]] in `exploratory.io`, the period is i
 - Create the function: `cohort_period(df)`
 - Combine it with `.apply()`, so it will apply the function for each row of the dataframe
 - The result as follows"
-![[Pasted image 20210929165613.png]]
+![[lab9.10.png]]
 
 ### Cohorts table: From long-form to wide-form
-![[Pasted image 20210929171450.png]]
+![[lab9.13.png]]
 
 Now, we want to pivot the table, so we will spread `cohort_period` to columns, and `cohort_group` in rows:
 
 - Set index to these two columns: `cohorts.set_index(['cohort_period','cohort_group'], inplace=True)`
-![[Pasted image 20210929170750.png]]
+![[lab9.11.png]]
 - Pivot the table (==from long-form to wide-form==)
 
 ```
@@ -166,7 +166,7 @@ cohorts['total_value'].unstack(0)
 #### Monthly Total Sales
 Using the heatmap to create the table of distribution of sales across cohorts during their life-cycle (`cohort_periods`):
 
-![[Pasted image 20210929170957.png]]
+![[lab9.12.png]]
 
 > Discussion: Comment on the heatmap 
 
@@ -178,7 +178,7 @@ Using the heatmap to create the table of distribution of sales across cohorts du
 
 > Discussion: Comment on the heatmap 
 
-![[Pasted image 20210929174454.png]]
+![[lab9.14.png]]
 
 ## Recap
 - Construct the survival curve, which is the rate of users still using the product/services after periods of time from the start-date
