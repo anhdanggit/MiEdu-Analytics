@@ -133,6 +133,31 @@ Below is the standard report of AB results:
 - With data from AB Testing, we could also run some [[11-12-Regression-Analysis]] to explore the association between factors to the target metrics
 - [[7-8-Segmentation]] also helps you to deep-dive in the results -> You can run AB test on specific customer segment to have a better results
 
+## Hypotthesis - Distribution - Test Statistic 
+> Above we learning that the p-val is the probability of the tails of the distributions of the test values (t-val)
+- So that, `p-val` is connected to the Test statistics (for example: `-value` or `t-statistic`) and it's distributions
+
+> How we determine which test to apply?
+
+You could find many cheatsheets as below in the Internet:
+![[attachments/tutorial10/tutorial10.9.png]]
+
+How to actually understand it? Follow the logical flow as below:
+1. `Test Statistic`: First we need a metric to measure the difference between 2 groups, depends on the hypothesis and the KPIs / outcomes, we might have different statistics metrics
+	- Chi-squared: Categorical
+	- t-test: mean of 2 sample
+2. `Statistics Distribution`: the values of each `test statistics` in (1) will have the corresponding distribution
+
+> Chi-square Distribution
+
+![[attachments/tutorial10/tutorial10.10.png]]
+
+> z-distribution & t-distribution
+
+![[attachments/tutorial10/tutorial10.11.png]]
+
+> Discussion: As in the above graph, t-test distribution will have fatter tails than z-test, comment about how it will impact the p-val, critical value to reject the null hypothesis at 5%
+
 ## Lab
 [[10-Lab-ABTesting]]
 

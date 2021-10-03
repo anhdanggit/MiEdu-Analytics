@@ -28,7 +28,7 @@ For the dashboard below:
 - Each channel will have conversions and performance metrics (See: Marketing KPIs [[4-Lab-Metrics]])
 	- `CPC` - Cost per Click
 	- `CPM` - Cost per 1000 impressions
-	- `ROI` - Return on investment = (profit - cost)/cost (account for any cost relates to the marketing effort)
+	- `ROI` - Return on investment = (revenue - cost)/cost (account for any cost relates to the marketing effort)
 	- `ROAS` - profit / advertising spendings
 - Acquisition Funnel metrics
 	- `CTR` - Click Through Rate

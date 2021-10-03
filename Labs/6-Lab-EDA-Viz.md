@@ -26,7 +26,7 @@ df = pd.read_csv('train.csv', low_memory=False)
 ## SQL vs. Python
 | Task                 | SQL                                                         | Python                                       |
 |----------------------|-------------------------------------------------------------|----------------------------------------------|
-| Preview Data         | SELECT * FROM df LIMIT 5                                    | `df.head()`                                  |
+| Preview Data         | SELECT * FROM df LIMIT 5                                    | `df.head(5)`                                  |
 | Columns Subsets      | SELECT col1, col2 FROM df                                   | `df[['col1','col2']]`                        |
 | Columns Manipulation | SELECT col1 + col2 AS col12 <br> FROM df                    | `df['col12'] = df.col1 + df.col2`            |
 | Filtering            | SELECT * FROM df <br> WHERE col1 > 0                        | `df[df.col1 > 0]`                            |
