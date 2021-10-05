@@ -12,8 +12,8 @@
 - [x] [[10-AB-Testing]] 
 - [x] [[11-12-Regression-Analysis]] 
 - [x] [[13-14-Time-series-Analysis]] 
-- [ ] [[15-Application-Ecommerce]]
-- [ ] [[16-Application-Marketplaces]]
+- [x] [[15-Application-Ecommerce]]
+- [x] [[16-Application-Marketplaces]]
 
 ## Tools
 - Python, SQL, Spreadsheet
