@@ -1,4 +1,4 @@
-Besides the techniques of Segmentation as in in [[7-8-Segmentation]], we can uncover the customer behavior by Cohort Analysis. 
+Besides the techniques of Segmentation as in in [[7-8-Segmentation-Analysis]], we can uncover the customer behavior by Cohort Analysis. 
 
 While segmentation shows us the patterns across different subgroups in customer characteristics, cohort analysis provide us with customer behavior overtime. 
 

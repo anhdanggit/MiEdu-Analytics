@@ -40,7 +40,7 @@
 ```
 ## RFM-Score
 1. Concat `Recency`, `Frequency`, `Monetary`
-2. Bin each element to 5 bins (equivalent to 5-level scale in [[7-8-Segmentation]]) -> `R_Score`, `F_Score`, `M_Score`
+2. Bin each element to 5 bins (equivalent to 5-level scale in [[../Tutorials/7-8-Segmentation-Analysis]]) -> `R_Score`, `F_Score`, `M_Score`
 3. Combine `R_Score`, `F_Score`, `M_Score` into `RFM_SCORE`
 
 > Notice that: `RFM_SCORE` and element scores are categorical.
@@ -53,7 +53,7 @@
 > Discussion: Why 85, but not 5 x 5 x 5 = 125?
 
 2. Next, We can either: 
-	- Group values in `RFM_SCORE` by business acumen (See: [[7-8-Segmentation]])
+	- Group values in `RFM_SCORE` by business acumen (See: [[../Tutorials/7-8-Segmentation-Analysis]])
 	- Clustering as we will practice in [[8-Lab-Kmeans]]
 	- Below, we only use 2 elements R,F to segments and M as the aggregate metrics
 

@@ -76,7 +76,6 @@ Below is the standard report of AB results:
 - The trick here is that: We don't prove something true, yet we prove that we have statistical evidence to reject the opposite -> So, some cautious statistican will not say: Hypothesis A is right, but they will say: We fail to reject Hypothesis A.
 
 ### Statistics Behind
-> We will introduce two ways of testing AB: Classical Frequentist, and Bayesian AB approach (introduced in [[10-Lab-ABTesting]])
 
 #### Frequentist
 - In short, AB testing is seeking for statistically significant differences between variants
@@ -100,6 +99,8 @@ Below is the standard report of AB results:
 		- If the difference is significant, the `t-value` will locate to two tails of the distribution
 
 ![[tutorial10.6.png]]
+
+> Beyond Frequentist: Bayesian AB approach is becoming more and more popular. You can practice the Bayesian AB test in [exploratory.io](https://blog.exploratory.io/an-introduction-to-bayesian-a-b-testing-in-exploratory-cb5a7ad80963)
 
 #### P-value
 > Now, we come to the most important concept 
@@ -131,9 +132,9 @@ Below is the standard report of AB results:
 ## Analyze the result from AB Testing
 - Besides the statistical testing, we can apply any simple analysis (Group By - Summarize) on the data or further EDA techniques in [[6-Lab-EDA-Viz]] to mine more insights from the data
 - With data from AB Testing, we could also run some [[11-12-Regression-Analysis]] to explore the association between factors to the target metrics
-- [[7-8-Segmentation]] also helps you to deep-dive in the results -> You can run AB test on specific customer segment to have a better results
+- [[7-8-Segmentation-Analysis]] also helps you to deep-dive in the results -> You can run AB test on specific customer segment to have a better results
 
-## Hypotthesis - Distribution - Test Statistic 
+## Hypothesis - Distribution - Test Statistic 
 > Above we learning that the p-val is the probability of the tails of the distributions of the test values (t-val)
 - So that, `p-val` is connected to the Test statistics (for example: `-value` or `t-statistic`) and it's distributions
 
@@ -163,3 +164,7 @@ How to actually understand it? Follow the logical flow as below:
 
 ## Exercise
 [[10-Experiment-Design-Car-Service]]
+
+## References
+- [A/B Testing - by Google (Free Course)](https://www.udacity.com/course/ab-testing--ud257)
+- [Intro to Inferential Statistics - by Facenook (Free Course)](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
